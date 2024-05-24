@@ -1,6 +1,3 @@
-Sure! Here is the Markdown version of your itinerary, including images for the hotels and sights.
-
-```markdown
 # Itinerary for USA Trip (2nd July - 20th July)
 
 ## 2nd July: Arrival in Salt Lake City
